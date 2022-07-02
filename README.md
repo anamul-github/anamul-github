@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anamul-github
+- 👋 Hi, I’m @anamul
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning software development.
+- 💞️ I’m looking to collaborate on e-commerce projects.
+- 📫 How to reach me? Just email me. :)
 
 <!---
 anamul-github/anamul-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
