@@ -15,9 +15,9 @@
 - ⚡ Fun fact **I love Cricket**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://www.linkedin.com/in/anamul-hasan/"  src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="https://www.linkedin.com/in/anamul-hasan/" /></a>
-</p>
+
 
 <h3 align="left">Expertise:</h3>
 
