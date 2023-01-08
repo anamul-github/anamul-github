@@ -62,7 +62,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Connect with me:</h3>
 
