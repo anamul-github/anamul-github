@@ -72,8 +72,6 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anamul-github&show_icons=true&locale=en&layout=compact" alt="anamul-github" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamul-github&show_icons=true&locale=en" alt="anamul-github" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamul-github&" alt="anamul-github" /></p>
