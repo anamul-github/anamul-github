@@ -72,8 +72,4 @@
 
 <br/>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamul-github&" alt="anamul-github" /></p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anamul-github&theme=dark)](https://git.io/streak-stats)
