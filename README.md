@@ -65,7 +65,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anamul-hasan)](https://www.linkedin.com/in/anamul-hasan){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anamul-hasan)](https://www.linkedin.com/in/anamul-hasan)
 
 
 
