@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Anamul Hasan</h1>
-<h3 align="center">A technology enthusiast and passionate frontend developer</h3>
+<h3 align="center">A technology enthusiast and passionate developer</h3>
 <img align="right" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamul-github&label=Profile%20views&color=0e75b6&style=flat" alt="anamul-github" /> </p>
 
-- 🌱 I’m currently learning **Redux & TypeScript**
+- 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **JavaScript, React, MERN**
+- 💬 Ask me about **JavaScript, React, MERN Stack**
 
 - 📫 How to reach me **anamul.jobhunt@gmail.com**
 
