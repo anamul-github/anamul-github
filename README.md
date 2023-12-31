@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamul-github&label=Profile%20views&color=0e75b6&style=flat" alt="anamul-github" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript, React, MERN Stack**
 
@@ -79,8 +79,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anamul-github&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <!---[![GitHub Streak](https://streak-stats.demolab.com?user=anamul-github&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)--->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anamul-github&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!---[![GitHub Streak](https://streak-stats.demolab.com?user=anamul-github&theme=github-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)--->
