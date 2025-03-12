@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, React, MERN Stack**
 
-- 📫 How to reach me **anamul.jobhunt@gmail.com**
+- 📫 How to reach me **https://www.anamulhasan.com/**
 
 - ⚡ Fun fact **I love Cricket**
 
