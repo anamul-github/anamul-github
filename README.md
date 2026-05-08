@@ -81,15 +81,17 @@
 <br />
 
 ## 📊 GitHub Stats
-
+<!------>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anamul-github&show_icons=true&theme=github_dark&hide_border=true" alt="Anamul's GitHub stats" />
 </p>
+<!------>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anamul-github&theme=github-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
+<!------>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamul-github&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+<!------>
