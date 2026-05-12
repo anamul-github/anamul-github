@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 
 - 🚀 I’m a Software Developer passionate about building modern, useful, and scalable applications.
-- 🌱 I’m currently learning **TypeScript** and improving my full-stack development skills.
-- 💻 I enjoy working with **JavaScript, React, Node.js, Express, MongoDB, and Firebase**.
-- 🎓 I’m pursuing my Master’s in Computer Science at **Georgia Tech**.
-- 📝 I write and build projects on my personal website: **[anamulhasan.com](https://www.anamulhasan.com/)**
+- 🌱 I’m currently learning more about **Node.js** and improving my Software Engineering skills.
+- 💻 I enjoy working with **JavaScript, TypeScript React, Node.js, Express, MongoDB, and Firebase**.
+- 🎓 I’m pursuing my Master’s in Computer Science (AI) at **Georgia Tech**.
+- 📝 I like to write and build impactful projects. Here is my personal website: **[anamulhasan.com](https://www.anamulhasan.com/)**
 - ⚡ Fun fact: I love **cricket, chess, learning, and building things**.
 
 <br />
