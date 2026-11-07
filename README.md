@@ -102,10 +102,3 @@ More details on my **[Projects page](https://www.anamulhasan.com/projects)**.
 [![Coffee Chat](https://img.shields.io/badge/Coffee_Chat-Let's_talk-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.anamulhasan.com/coffee-chat)
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamul.jobhunt@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Anamul%20Hasan-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anamulhasan26)
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anamul-github&theme=github-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-  
-</p>
