@@ -107,4 +107,5 @@ More details on my **[Projects page](https://www.anamulhasan.com/projects)**.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anamul-github&theme=github-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  
 </p>
